@@ -1,27 +1,33 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Egg Timer App 🥚
 
-# Egg Timer
+A simple iOS app that helps boil eggs perfectly using a countdown timer and progress bar.
 
-## Our Goal
+## Features
+- Soft, Medium, and Hard egg options
+- Countdown timer in seconds
+- Progress bar showing egg cooking progress
+- Console messages when egg is ready
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+## How it works
+- Tap any egg button (Soft / Medium / Hard)
+- Timer starts based on selected egg type
+- Progress bar fills as time passes
+- Message prints when the egg is ready
 
-## What You'll Make
+## Tech Used
+- UIKit
+- Timer
+- UIButton
+- UIProgressView
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+## Learning Goals
+- if–else and switch logic
+- Dictionaries
+- Timers
+- Button actions
+- Progress tracking
+<img width="336" height="703" alt="Screenshot 2025-12-31 at 8 10 34 AM" src="https://github.com/user-attachments/assets/1e84d49e-a09d-42db-8e67-d7f500da6b48" />
+<img width="336" height="703" alt="Screenshot 2025-12-31 at 8 11 01 AM" src="https://github.com/user-attachments/assets/c519ee20-a5eb-461b-8a31-4ea6fe8efc93" />
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+Built while learning iOS development 🚀
